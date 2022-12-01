@@ -6,10 +6,10 @@ Hence, this script gives you the error coefficeint of polar codes as well.
 
 M. Rowshan and J. Yuan, "Fast Enumeration of Minimum Weight Codewords of PAC Codes," in IEEE Information Theory Workshop, Nov. 2022.
 
-Additionally, we provide a separate script for counting the number of minimum weight codewords (a.k.a error coefficient) of polar codes as well. For more about the method used for this script, please see the paper below:
+Additionally, a separate script for counting the number of minimum weight codewords (a.k.a error coefficient) of polar codes is provided. For more about the method used in this script, please see the paper below:
 
 https://arxiv.org/abs/2111.08843
 
-If you find this algorithm useful, please cite the papers. Thanks.
+If you find this algorithm useful, please cite the papers above. Thanks.
 
 Please report any bugs to mrowshan at ieee dot org
