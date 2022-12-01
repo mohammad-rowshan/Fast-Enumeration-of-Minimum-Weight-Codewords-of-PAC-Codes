@@ -1,3 +1,15 @@
+% Fast-Enumeration-of-Minimum-Weight-Codewords-of-PAC-Codes ############################
+%
+% Copyright (c) 2021, Mohammad Rowshan
+% All rights reserved.
+%
+% Redistribution and use in source and binary forms, with or without modification, 
+% are permitted provided that:
+% the source code retains the above copyright notice, and te redistribtuion condition.
+% 
+% Freely distributed for educational and research purposes
+%######################################################################################
+
 N = 2^7;            % Code length
 R = 0.8594;            % Code rate
 K = N * R;          % code dimention: the number of information bits
