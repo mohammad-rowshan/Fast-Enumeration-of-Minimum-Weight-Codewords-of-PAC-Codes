@@ -1,5 +1,5 @@
 # Fast-Enumeration-of-Minimum-Weight-Codewords-of-PAC-Codes
-This is a MATLAB script for counting the number of minimum weight codewords (a.k.a error coefficient) of PAC codes. 
+This is a MATLAB script for counting the number of minimum weight codewords (a.k.a error coefficient) of PAC codes. There are two scripts provided: "err_coeff_pac_parfor.m" uses parallel for loop while "err_coeff_pac.m does not.
 
 As the following paper explains, there is a semi-closed form expression for the numeration relative to the one for polar codes. That is, knowning the the number of minimum weight codewords of polar codes, we can find consider the impact of precoding for any precoding polynomial to count the error coefficient of PAC codes.
 Hence, this script gives you the error coefficeint of polar codes as well.
